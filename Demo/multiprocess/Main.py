@@ -37,7 +37,7 @@ def More_Process():
     :return:
     '''
     print('父进程 %s.' % os.getpid())
-    p = Pool(4)     #使用multiprocess模块中的Pool方法
+    p = Pool(4)     #使用multiprocess模块中的Pool对象,Pool的初始化大小，如果不填入参数，默认大小是CPU的核数。
     for i in range(5):
         p.apply_async(long_time_task, args=(i, ))
     print('等待所有进程结束...')
