@@ -8,7 +8,7 @@
 import socket
 
 target_host = '127.0.0.1'
-target_port = 80
+target_port = 9991
 
 #建立一个socket对象
 client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
