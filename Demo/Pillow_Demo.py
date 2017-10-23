@@ -30,14 +30,54 @@ def Demo():
         print(image.format, image.size, image.mode)
 
 
+def Roll(image, delta):
+
+    '''
+
+    翻转图像
+
+    :param image:
+    :param data:
+    :return:
+    '''
+
+    xsize, ysize = image.size
+
+    if delta == 0:
+        return image
+
+    part1 = image.crope()
+
+    pass
+def Geometric_Transformation():
+
+    '''
+
+    几何变换
+
+    :return:
+    '''
+
+    pass
 
 
+def Color_Conversion():
+
+    '''
+
+
+    色彩转换
+
+    :return:
+    '''
+
+    pass
 
 
 def Image_Demo():
     '''
 
-    Pillow的核心模块Image测试代码
+    Pillow的核心模块Image测试代码.
 
     :return:
     '''
@@ -45,6 +85,10 @@ def Image_Demo():
     print(image.format, image.size, image.mode)
 
     pass
+
+
+
+
 
 def Main():
     Image_Demo()
