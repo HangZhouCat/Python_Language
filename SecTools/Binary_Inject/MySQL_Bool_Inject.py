@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 
 headers = {"User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0"}
 url = "http://www.zzzzzzz.cn/Home/Centre/details?cid=36"
-duibi = "zzzzzzzz"
+duibi = "zzzzzzzz"      #用于判断页面状态。这里采用字符串，也可以使用返回长度来判断
 
 def Demo():
 
