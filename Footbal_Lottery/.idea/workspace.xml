@@ -1,324 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1fb3e57-ea35-4d71-9472-569238a80525" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cpuinfo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tfb_backtest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tfb_draw.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tfb_main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tfb_strategy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tfb_sys.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tfb_tools.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zdraw.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zpd_talib.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zsys.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ztools.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ztools_data.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ztools_str.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ztools_tst.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ztools_web.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ztop_ai.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearning/.idea/DeepLearning.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearning/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearning/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearning/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DeepLearning/TensorFlow/Demo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/.idea/Demo.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/BeautifulSoup/Demo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/BeautifulSoup/Demo1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/BeautifulSoup/all_a.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Data_Storage/mysql_demo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Function/Decorator.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Function/Higher_Order.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Function/Map_AND_Reduce.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/NetWork/FTP_Client.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/NetWork/FTP_Server.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/NetWork/Send_Email.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/NetWork/TCP_Client.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/NetWork/TCP_Server.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/NetWork/UDP_Client.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/OOP/JiCheng.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/OOP/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/100.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/19.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/23.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/25.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/27.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/28.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/29.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/30.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/32.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/33.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/34.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/35.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/36.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/37.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/38.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/39.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/40.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/41.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/42.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/43.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/44.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/45.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/46.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/47.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/48.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/49.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/50.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/51.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/52.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/53.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/54.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/55.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/56.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/57.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/58.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/59.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/60.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/61.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/62.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/63.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/64.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/65.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/66.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/67.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/68.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/69.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/70.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/71.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/72.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/73.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/74.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/75.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/76.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/77.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/78.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/79.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/80.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/81.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/82.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/83.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/84.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/85.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/86.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/87.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/88.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/89.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/91.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/92.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/93.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/94.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/95.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/96.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/97.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/98.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Photo/99.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Pillow_Demo.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Subprocess/Main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Subprocess/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Thread/Main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Thread/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Thread/Thread_Lock.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/Thread/Thread_ThreadLocal.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/baidu_ocr.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/multiprocess/Main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/multiprocess/Process_Communication.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/multiprocess/REAME" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Demo/test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/.idea/Footbal_Lottery.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/.idea/deployment.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/.idea/webServers.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/Pandas常用绘图风格.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/240228_oz.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/240228_oz.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/500_2010-01-02.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/500_2010-01-02_gbk.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/500_2010-01-02_utf8.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/500_2017-01-16.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/500_2017-01-20.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/500_2017-01-21.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/500_2017-01-23.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/500_2017-01-25.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/579991_oz.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/627925_oz.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/629388_oz.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/629388_oz.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/adv.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/appl2014.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/ccpp.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/ccpp_bayes.pkl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/ccpp_dtree.pkl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/ccpp_forest.pkl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/ccpp_knn.pkl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/ccpp_line.pkl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/ccpp_log.pkl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/ccpp_mlp.pkl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/ccpp_mlpreg.pkl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/ccpp_svm.pkl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/ccpp_xtest.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/ccpp_xtrain.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/ccpp_ytest.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/ccpp_ytrain.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/cormap.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/day01.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/df9_pred.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/gid20.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/gid50.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/iris.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/iris2.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/iris_9.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/iris_xtest.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/iris_xtrain.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/iris_ytest.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/iris_ytrain.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/js001.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/js101.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/log_poolRet_2017-02-22.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/log_poolTrd_2017-02-22.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/log_sta310.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/log_v010.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/log_v020.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/mvar_bt020k.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/mvar_log_bt030.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/pima.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/poolRet_2017-02-22.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/poolRet_k15n1000.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/poolRet_k15n150.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/poolRet_n3k11.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/poolRet_n3k12.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/poolTrd_2017-02-22.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/pooltrd_n1000.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/pooltrd_n150.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/sta01.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/sta01ext.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/stk_code00.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/tk01.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/tk01_m1.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/tk01_m15.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/tk01_m30.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/tk01_m5.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/tk01_m60.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/tk01sr.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/xd_2016.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/zw_bbs.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/zw_bbs20_xkey.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/zw_bbs20k.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/zw_bbs30_xkey.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/zw_bbs30k.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/zw_usr2017m1.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/dat/zw_usr2017m1k.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/matplotlib常用绘图风格.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_Solarize_Light2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_Solarize_Light2_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001__classic_test.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001__classic_test_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_bmh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_bmh_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_classic.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_classic_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_dark_background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_dark_background_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_fast.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_fast_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_fivethirtyeight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_fivethirtyeight_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_ggplot.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_ggplot_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_grayscale.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_grayscale_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-bright.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-bright_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-colorblind.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-colorblind_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-dark-palette.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-dark-palette_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-dark_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-darkgrid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-darkgrid_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-deep.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-deep_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-muted.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-muted_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-notebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-notebook_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-paper.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-paper_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-pastel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-pastel_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-poster.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-poster_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-talk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-talk_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-ticks.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-ticks_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-white_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-whitegrid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn-whitegrid_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/tmp/stk001_seaborn_pd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Footbal_Lottery/赔率文件分割.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SecTools/.idea/SecTools.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SecTools/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SecTools/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SecTools/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SecTools/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SecTools/Binary_Inject/.idea/Binary_Inject.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SecTools/Binary_Inject/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SecTools/Binary_Inject/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SecTools/Binary_Inject/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SecTools/Binary_Inject/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SecTools/Binary_Inject/MSSQL_Bool_Inject.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SecTools/Binary_Inject/MySQL_Bool_Inject.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SecTools/Scan_SubDomain.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SecTools/TCP_Proxy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SecTools/Windows_RAT/Execute_ShellCode.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SecTools/Windows_RAT/Get_Scrrent_Shot.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SecTools/Windows_RAT/GitHub_RAT.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SecTools/Windows_RAT/Keyboard_Record.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Python_Language.iml" afterPath="$PROJECT_DIR$/.idea/Python_Language.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="0a1721e4-68ed-4619-baed-4472b54930c9" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -326,17 +9,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Footbal_Lottery$.coverage" NAME="赔率文件分割 Coverage Results" MODIFIED="1513992705317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Footbal_Lottery$Pandas.coverage" NAME="Pandas常用绘图风格 Coverage Results" MODIFIED="1513964200751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="matplotlib常用绘图风格.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/matplotlib常用绘图风格.py">
+    <leaf>
+      <file leaf-file-name="Pandas常用绘图风格.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pandas常用绘图风格.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -347,30 +26,20 @@
       <file leaf-file-name="赔率文件分割.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/赔率文件分割.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-              <folding />
+            <state relative-caret-position="726">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/常用的绘图风格.py" />
-        <option value="$PROJECT_DIR$/Pandas常用绘图风格.py" />
         <option value="$PROJECT_DIR$/赔率文件分割.py" />
       </list>
     </option>
@@ -403,6 +72,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -414,18 +84,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/Anaconda3.5/python.exe" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Source_Code\Github\Python_Language\Footbal_Lottery" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -439,107 +103,40 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="常用的绘图风格" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Footbal_Lottery" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\Source_Code\Github\Python_Language\Footbal_Lottery\matplotlib常用绘图风格.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="赔率文件分割" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Footbal_Lottery" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/赔率文件分割.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="Pandas常用绘图风格" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Footbal_Lottery" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas常用绘图风格.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Python.常用的绘图风格" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Pandas常用绘图风格" />
-    </list>
-    <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.Pandas常用绘图风格" />
-        <item index="1" class="java.lang.String" itemvalue="Python.常用的绘图风格" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c1fb3e57-ea35-4d71-9472-569238a80525" name="Default" comment="" />
-      <created>1513961586206</created>
+      <changelist id="0a1721e4-68ed-4619-baed-4472b54930c9" name="Default" comment="" />
+      <created>1514035713275</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1513961586206</updated>
+      <updated>1514035713275</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0921875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3192279" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -550,13 +147,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/matplotlib常用绘图风格.py">
+    <entry file="file://$PROJECT_DIR$/Pandas常用绘图风格.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -566,64 +161,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/matplotlib常用绘图风格.py">
+    <entry file="file://$PROJECT_DIR$/ztools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1320">
+          <caret line="375" column="33" lean-forward="true" selection-start-line="375" selection-start-column="33" selection-end-line="375" selection-end-column="33" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pandas常用绘图风格.py" />
-    <entry file="file://$PROJECT_DIR$/赔率文件分割.py" />
-    <entry file="file://$PROJECT_DIR$/tmp/stk001__classic_test.png" />
-    <entry file="file://$PROJECT_DIR$/dat/adv.csv" />
-    <entry file="file://$PROJECT_DIR$/matplotlib常用绘图风格.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pandas常用绘图风格.py" />
-    <entry file="file://$PROJECT_DIR$/ztools_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#303#322#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpuinfo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4257">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1347#1361#0" expanded="true" />
+            <element signature="e#291#310#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/赔率文件分割.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="726">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
