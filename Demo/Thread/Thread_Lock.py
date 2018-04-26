@@ -38,6 +38,7 @@ def run_Use_Lock_thread(n):
         finally:
             #改完了一定要释放锁
             thread_lock.release()
+
         '''
         
         获得锁的线程用完以后一定要释放锁，否则等待锁的线程将永远等待下去，成为死线程，所有用try...finally来确保锁一定会被释放，
@@ -48,8 +49,8 @@ def run_Use_Lock_thread(n):
 
 
 def Main():
-    t1 = threading.Thread(target=run_Use_Lock_thread, args=(5, ))
-    t2 = threading.Thread(target=run_Use_Lock_thread, args=(8, ))
+    t1 = threading.Thread(target=run_No_Lock_thread, args=(5, ))
+    t2 = threading.Thread(target=run_No_Lock_thread, args=(8, ))
     t1.start()
     t2.start()
     t1.join()
